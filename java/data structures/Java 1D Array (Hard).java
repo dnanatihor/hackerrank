@@ -2,10 +2,6 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-/**
- *
- * [@author](/author) idobles
- */
 public class Solution {
 
     public static void main(String[] args) {
