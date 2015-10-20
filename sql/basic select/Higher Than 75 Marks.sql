@@ -1,0 +1,1 @@
+select name from Students where Marks>75 order by RIGHT(name, 3), id asc
