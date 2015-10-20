@@ -1,0 +1,2 @@
+select name+"("+left(occupation, 1)+")" from occupations order by name
+select "There are total " + convert(varchar(10), count(occupation)) + " " + LOWER(occupation)+"s." from occupations group by occupation order by count(occupation)
